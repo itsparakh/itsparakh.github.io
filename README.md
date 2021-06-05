@@ -7,6 +7,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### How to run
-- from application root where package.json exist run `npm start`.
+- to run client navigate to application root where package.json exist run `npm start`.
 - navigate to `server` folder under `src` directory and run `npm start`, this will start your server.
 - now you application is ready to run.
